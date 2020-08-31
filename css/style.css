@@ -5,5 +5,30 @@ p {
 
 h1 {
   font-size: 30px;
-  margin: 50px;
+  margin: 0;
+}
+
+.content {
+  background-color: #fffffe;
+  width: 600px;
+  margin: 10px auto;
+  border: 2px solid #001e1d;
+  padding: 30px;
+}
+
+input {
+  border: none;
+  border-bottom: 1px dashed  #001e1d;
+  font-size: 1.2em;
+  width: 100%;
+  padding: 8px;
+}
+
+button {
+  color: white;
+  border-radius: 50px;
+  width: 100%;
+  background-color: seagreen;
+  padding: 15px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, .4);
 }
