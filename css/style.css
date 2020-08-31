@@ -31,4 +31,26 @@ button {
   background-color: seagreen;
   padding: 15px;
   box-shadow: 0 0 8px rgba(0, 0, 0, .4);
+  margin-top: 20px;
+}
+
+.required {
+  color: #f33;
+  padding: 3px;
+  font-size: .9em;
+  background-color: #fee;
+  font-weight: bold;
+}
+
+body {
+  background-color: #fefefe;
+}
+
+.control {
+  margin-bottom: 3em;
+}
+
+label {
+  display: bolck;
+  margin-bottom: .5em;
 }
